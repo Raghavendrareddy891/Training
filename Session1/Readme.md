@@ -1,2 +1,3 @@
 Session1 
-Basic git  introduction
+Basic git intro
+Added needed documents
